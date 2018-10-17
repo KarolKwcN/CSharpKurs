@@ -14,6 +14,8 @@ namespace Hello
             {
                 Console.WriteLine("Witaj " + item);
             }
+
+            Console.ReadKey();
         }
     }
 }
