@@ -9,7 +9,7 @@ namespace Dzienniczek
     {
         // Stan (zmienne - pola)
 
-        List<float> oceny;
+        List<float> oceny = new List<float>();
 
         // Zachowania 
         public void DodawanieOcen(float ocena)
